@@ -1,0 +1,368 @@
+{
+  "movies": [
+    {
+      "id": "m83",
+      "title": "The Eternal Quest",
+      "release_date": "2024-01-05",
+      "description": "An adventurer seeks a mythical artifact.",
+      "cast": ["John Doe", "Jane Smith"]
+    },
+    {
+      "id": "m24",
+      "title": "Journey to the Unknown",
+      "release_date": "2024-01-12",
+      "description": "A group of explorers uncover ancient mysteries.",
+      "cast": ["Alice Johnson", "Robert Brown"]
+    },
+    {
+      "id": "m57",
+      "title": "The Last Frontier",
+      "release_date": "2024-01-19",
+      "description": "Colonists struggle to survive on a distant planet.",
+      "cast": ["Emily Davis", "Michael Wilson"]
+    },
+    {
+      "id": "m13",
+      "title": "Whispers in the Dark",
+      "release_date": "2024-01-26",
+      "description": "A detective investigates a series of haunting whispers.",
+      "cast": ["Chris Martin", "Jessica Lee"]
+    },
+    {
+      "id": "m39",
+      "title": "Echoes of Time",
+      "release_date": "2024-02-02",
+      "description": "A scientist travels back in time to alter history.",
+      "cast": ["Daniel Garcia", "Sarah White"]
+    },
+    {
+      "id": "m75",
+      "title": "The Silent Guardian",
+      "release_date": "2024-02-09",
+      "description": "A vigilante protects the city from crime.",
+      "cast": ["David Hall", "Anna Martinez"]
+    },
+    {
+      "id": "m22",
+      "title": "Shadows of the Past",
+      "release_date": "2024-02-16",
+      "description": "A historian uncovers dark secrets while researching an old mansion.",
+      "cast": ["Emma Stone", "Ryan Gosling"]
+    },
+    {
+      "id": "m48",
+      "title": "The Hidden Truth",
+      "release_date": "2024-02-23",
+      "description": "A journalist digs deep into a political scandal.",
+      "cast": ["Tom Hardy", "Charlize Theron"]
+    },
+    {
+      "id": "m8",
+      "title": "Rescue Mission",
+      "release_date": "2024-03-01",
+      "description": "An elite team embarks on a mission to save hostages.",
+      "cast": ["Dwayne Johnson", "Gal Gadot"]
+    },
+    {
+      "id": "m29",
+      "title": "Love Beyond Time",
+      "release_date": "2024-03-08",
+      "description": "A love story that transcends time and space.",
+      "cast": ["Chris Hemsworth", "Scarlett Johansson"]
+    },
+    {
+      "id": "m94",
+      "title": "The Cosmic Voyage",
+      "release_date": "2024-03-15",
+      "description": "A crew of astronauts embarks on a journey to the edge of the galaxy.",
+      "cast": ["Leonardo DiCaprio", "Natalie Portman"]
+    },
+    {
+      "id": "m16",
+      "title": "Rogue Agent",
+      "release_date": "2024-03-22",
+      "description": "A former spy goes rogue to uncover a conspiracy.",
+      "cast": ["Matt Damon", "Emily Blunt"]
+    },
+    {
+      "id": "m61",
+      "title": "Mystic River",
+      "release_date": "2024-03-29",
+      "description": "A small town is haunted by mysterious events.",
+      "cast": ["Joaquin Phoenix", "Amy Adams"]
+    },
+    {
+      "id": "m34",
+      "title": "Cyber Heist",
+      "release_date": "2024-04-05",
+      "description": "A team of hackers plans a high-stakes heist.",
+      "cast": ["Ryan Reynolds", "Margot Robbie"]
+    },
+    {
+      "id": "m79",
+      "title": "Frozen Dreams",
+      "release_date": "2024-04-12",
+      "description": "Survivors of a plane crash must navigate a frozen wilderness.",
+      "cast": ["Hugh Jackman", "Anne Hathaway"]
+    },
+    {
+      "id": "m2",
+      "title": "Ancient Prophecy",
+      "release_date": "2024-04-19",
+      "description": "Archaeologists discover an ancient prophecy that could change the world.",
+      "cast": ["Keanu Reeves", "Sandra Bullock"]
+    },
+    {
+      "id": "m45",
+      "title": "Quantum Realm",
+      "release_date": "2024-04-26",
+      "description": "Scientists explore a new dimension known as the Quantum Realm.",
+      "cast": ["Robert Downey Jr.", "Benedict Cumberbatch"]
+    },
+    {
+      "id": "m66",
+      "title": "Parallel Lives",
+      "release_date": "2024-05-03",
+      "description": "Two people from parallel universes find a way to communicate.",
+      "cast": ["Brad Pitt", "Angelina Jolie"]
+    },
+    {
+      "id": "m12",
+      "title": "The Enchanted Forest",
+      "release_date": "2024-05-10",
+      "description": "A young girl discovers a magical forest with mythical creatures.",
+      "cast": ["Emma Watson", "Eddie Redmayne"]
+    },
+    {
+      "id": "m51",
+      "title": "Solar Storm",
+      "release_date": "2024-05-17",
+      "description": "A solar storm threatens life on Earth.",
+      "cast": ["Tom Cruise", "Emily Mortimer"]
+    },
+    {
+      "id": "m4",
+      "title": "Urban Legends",
+      "release_date": "2024-05-24",
+      "description": "A group of friends investigates urban legends in their city.",
+      "cast": ["Zendaya", "Timothée Chalamet"]
+    },
+    {
+      "id": "m89",
+      "title": "The Dark Side",
+      "release_date": "2024-05-31",
+      "description": "An astronaut uncovers a dark secret on the moon.",
+      "cast": ["Chris Pratt", "Zoe Saldana"]
+    },
+    {
+      "id": "m30",
+      "title": "Warrior's Honor",
+      "release_date": "2024-06-07",
+      "description": "A warrior fights to reclaim his honor in a mythical land.",
+      "cast": ["Jason Momoa", "Gal Gadot"]
+    },
+    {
+      "id": "m14",
+      "title": "Crystal Skies",
+      "release_date": "2024-06-14",
+      "description": "A pilot discovers a hidden world in the clouds.",
+      "cast": ["Henry Cavill", "Brie Larson"]
+    },
+    {
+      "id": "m76",
+      "title": "Mystery Island",
+      "release_date": "2024-06-21",
+      "description": "A group of tourists gets stranded on a mysterious island.",
+      "cast": ["Daisy Ridley", "John Boyega"]
+    },
+    {
+      "id": "m28",
+      "title": "Infinite Loop",
+      "release_date": "2024-06-28",
+      "description": "A programmer gets trapped in a virtual reality loop.",
+      "cast": ["Jesse Eisenberg", "Emma Stone"]
+    },
+    {
+      "id": "m58",
+      "title": "Haunted Manor",
+      "release_date": "2024-07-05",
+      "description": "A family moves into a haunted mansion.",
+      "cast": ["Daniel Radcliffe", "Helena Bonham Carter"]
+    },
+    {
+      "id": "m90",
+      "title": "Galactic War",
+      "release_date": "2024-07-12",
+      "description": "An interstellar war threatens the galaxy.",
+      "cast": ["Mark Hamill", "Carrie Fisher"]
+    },
+    {
+      "id": "m37",
+      "title": "Legend of the Phoenix",
+      "release_date": "2024-07-19",
+      "description": "A hero rises to stop an ancient evil.",
+      "cast": ["Chris Evans", "Hayley Atwell"]
+    },
+    {
+      "id": "m67",
+      "title": "The Lost City",
+      "release_date": "2024-07-26",
+      "description": "Explorers discover a lost city filled with treasure.",
+      "cast": ["Tom Holland", "Zendaya"]
+    },
+    {
+      "id": "m6",
+      "title": "The Time Keeper",
+      "release_date": "2024-08-02",
+      "description": "A man discovers he can manipulate time.",
+      "cast": ["Benedict Cumberbatch", "Rachel McAdams"]
+    },
+    {
+      "id": "m84",
+      "title": "The Great Heist",
+      "release_date": "2024-08-09",
+      "description": "A mastermind plans the greatest heist in history.",
+      "cast": ["George Clooney", "Julia Roberts"]
+    },
+    {
+      "id": "m20",
+      "title": "Dragon's Lair",
+      "release_date": "2024-08-16",
+      "description": "A knight seeks to rescue a princess from a dragon.",
+      "cast": ["Kit Harington", "Emilia Clarke"]
+    },
+    {
+      "id": "m47",
+      "title": "The Invisible Enemy",
+      "release_date": "2024-08-23",
+      "description": "A scientist battles an invisible threat.",
+      "cast": ["Robert Pattinson", "Kristen Stewart"]
+    },
+    {
+      "id": "m17",
+      "title": "Alien Invasion",
+      "release_date": "2024-08-30",
+      "description": "Earth is invaded by aliens.",
+      "cast": ["Will Smith", "Milla Jovovich"]
+    },
+    {
+      "id": "m72",
+      "title": "The Last Stand",
+      "release_date": "2024-09-06",
+      "description": "Humanity makes its last stand against an alien threat.",
+      "cast": ["Chris Pine", "Zachary Quinto"]
+    },
+    {
+      "id": "m10",
+      "title": "Secret Agent",
+      "release_date": "2024-09-13",
+      "description": "A secret agent goes on a dangerous mission.",
+      "cast": ["Daniel Craig", "Léa Seydoux"]
+    },
+    {
+      "id": "m93",
+      "title": "The Phantom Thief",
+      "release_date": "2024-09-20",
+      "description": "A thief with extraordinary skills evades capture.",
+      "cast": ["Michael Fassbender", "Alicia Vikander"]
+    },
+    {
+      "id": "m38",
+      "title": "The Oracle",
+      "release_date": "2024-09-27",
+      "description": "A woman with prophetic abilities is hunted by a secret organization.",
+      "cast": ["Cate Blanchett", "Jeremy Renner"]
+    },
+    {
+      "id": "m1",
+      "title": "Underwater Empire",
+      "release_date": "2024-10-04",
+      "description": "Explorers discover an ancient underwater empire.",
+      "cast": ["Jason Momoa", "Amber Heard"]
+    },
+    {
+      "id": "m88",
+      "title": "Robot Revolution",
+      "release_date": "2024-10-11",
+      "description": "Robots revolt against their human creators.",
+      "cast": ["Harrison Ford", "Ryan Gosling"]
+    },
+    {
+      "id": "m19",
+      "title": "The Maze",
+      "release_date": "2024-10-18",
+      "description": "A group of people must navigate a deadly maze.",
+      "cast": ["Dylan O'Brien", "Kaya Scodelario"]
+    },
+    {
+      "id": "m54",
+      "title": "Dark Horizon",
+      "release_date": "2024-10-25",
+      "description": "A spaceship crew faces a dark and mysterious threat.",
+      "cast": ["Chris Pine", "Zoe Saldana"]
+    },
+    {
+      "id": "m35",
+      "title": "Vampire's Curse",
+      "release_date": "2024-11-01",
+      "description": "A vampire hunter seeks to end a centuries-old curse.",
+      "cast": ["Nicolas Cage", "Eva Green"]
+    },
+    {
+      "id": "m91",
+      "title": "The Sorcerer's Apprentice",
+      "release_date": "2024-11-08",
+      "description": "A young apprentice learns the ways of magic.",
+      "cast": ["Tom Hiddleston", "Elizabeth Olsen"]
+    },
+    {
+      "id": "m31",
+      "title": "The Forbidden Kingdom",
+      "release_date": "2024-11-15",
+      "description": "A warrior enters a forbidden kingdom to save his people.",
+      "cast": ["Donnie Yen", "Michelle Yeoh"]
+    },
+    {
+      "id": "m62",
+      "title": "The Hidden Fortress",
+      "release_date": "2024-11-22",
+      "description": "A group of rebels hides in a hidden fortress.",
+      "cast": ["Oscar Isaac", "Daisy Ridley"]
+    },
+    {
+      "id": "m5",
+      "title": "The Ghost Ship",
+      "release_date": "2024-11-29",
+      "description": "Sailors encounter a haunted ship on the high seas.",
+      "cast": ["Javier Bardem", "Penélope Cruz"]
+    },
+    {
+      "id": "m44",
+      "title": "The Dragon Slayer",
+      "release_date": "2024-12-06",
+      "description": "A hero sets out to slay a fearsome dragon.",
+      "cast": ["Chris Hemsworth", "Natalie Dormer"]
+    },
+    {
+      "id": "m85",
+      "title": "The Enigma Code",
+      "release_date": "2024-12-13",
+      "description": "Cryptographers race to crack an unbreakable code.",
+      "cast": ["Benedict Cumberbatch", "Keira Knightley"]
+    },
+    {
+      "id": "m11",
+      "title": "The Time Traveler",
+      "release_date": "2024-12-20",
+      "description": "A man travels through time to save his loved ones.",
+      "cast": ["Hugh Jackman", "Rachel Weisz"]
+    },
+    {
+      "id": "m74",
+      "title": "The Ice Warrior",
+      "release_date": "2024-12-27",
+      "description": "A warrior from the ice age is revived in modern times.",
+      "cast": ["Chris Pratt", "Jennifer Lawrence"]
+    }
+  ]
+}
