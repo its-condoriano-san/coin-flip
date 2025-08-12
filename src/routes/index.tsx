@@ -6,7 +6,7 @@ const Cointoss = lazy(() => import('@/pages/coinToss'));
 export default function AppRouter() {
   const publicRoutes = [
     {
-      path: '/coinflip',
+      path: '/',
       element: <Cointoss />
     },
     {
